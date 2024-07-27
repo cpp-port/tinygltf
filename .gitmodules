@@ -1,0 +1,4 @@
+[submodule "tinygltf"]
+	path = tinygltf
+	url = ../../syoyo/tinygltf
+	branch = release
